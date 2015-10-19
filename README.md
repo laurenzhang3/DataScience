@@ -1,5 +1,5 @@
-# DataScience
-## This is a file for test.
-* Coursera
-* Data Science
-* Data Scientist's toolbox
+# DataScienceCoursera
+## This is a file for course project.
+* Test: Coursera
+* Test: Data Science
+* Test: Data Scientist's toolbox
